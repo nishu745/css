@@ -1,0 +1,14 @@
+#test-elem{
+    color:chartreuse;
+}
+.success{
+    color:deeppink;
+}
+p.para{
+    color:gold;
+}
+div>section{
+    color:coral;
+}
+/* agar div>p kiya toh sirf first bacha  */
+/* agar div space p kia toh sb bache k color change */
