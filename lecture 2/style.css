@@ -1,0 +1,28 @@
+/*adjacent sibling selector*/
+/*neeche wala closest sibling (+ wala symbol)*/
+
+p +h1
+/*.para+h1 bhi i can write*/
+{
+    color:blue;
+
+}
+/*general sibling selector ~ neeche wale all siblings*/
+p~h1{
+    color:crimson;
+}
+#boxmodel{
+    border: 3px dotted coral;
+    width: 100px;
+    height: 50px;
+    /*margin:auto (for mid horizontally)*/
+    padding: 30px 25px 20px 10px;
+    /* we cam also write alag se for eg
+    padding-top:20px
+    padding-bottom=10px
+    padding-left=30px
+    padding-right=80px*/
+    margin:20px 25px 20px 25 px;
+    border-radius: 500%;
+    /*50% of its corresponding dimension*/
+}

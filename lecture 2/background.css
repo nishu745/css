@@ -1,0 +1,20 @@
+.bg-danger{
+    background-color: lightpink;
+    width: 500px;
+    height: 500px;
+}
+body{
+    background-color:crimson; 
+    border:2px solid rgb(223, 177, 188);
+}
+.bg-div{
+    background-image: url('https://i.pinimg.com/736x/f4/de/78/f4de78da7a0b980ea00b3b349395a062.jpg');
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    border: 2px solid rgb(138, 41, 86);
+    background-size: cover;
+    color: aquamarine;
+    background-position: center;
+
+}
