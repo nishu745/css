@@ -1,0 +1,29 @@
+.container>div{
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+    margin: 20px;
+    border: 2px solid saddlebrown;
+}
+#div1{
+    background-color: deeppink;
+}
+#div2{
+    background-color: coral;
+}
+#div3{
+    background-color: peachpuff;
+}
+#div4{
+    background-color: deeppink;
+}
+#div1{
+    position: static;
+}
+#div2{
+    position: relative;
+    left: 50px;
+    right: 50px;
+    top: 100px;
+    bottom: 100px;
+}
