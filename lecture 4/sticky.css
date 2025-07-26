@@ -1,0 +1,17 @@
+#heading1{
+    position: sticky;
+    top: 0px;
+    background-color: blue;
+    color: cornflowerblue;
+}
+#maindiv{
+    border: 2px solid bisque;
+}
+#fixed-div{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    background-color: tomato;
+    color: indianred;
+    z-index: 8;
+}

@@ -1,0 +1,25 @@
+.box{
+    height: 80px;
+    width: 80px;
+    background-color: bisque;
+    border: 2px solid beige;
+    margin: 0px 10px;
+}
+#parent{
+    width: 100px;
+    background-color: rgba(158, 98, 8, 0.918);
+    height: 100px;
+    position: relative;
+}
+#child{
+    width: 80px;
+    background-color: rgb(237, 176, 95);
+    height: 80px;
+    position: absolute;
+    bottom: 0px;
+}
+#divtemp{
+    position:fixed;
+    top: 0px;
+    background-color: darkgoldenrod;
+}
