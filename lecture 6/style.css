@@ -1,0 +1,30 @@
+#child2{
+    order :-1;
+}
+
+.box{
+    width: 100px;
+    border: 2px solid palevioletred;
+    height: 100px;
+}
+#box-3{
+flex-grow: 2;
+}
+#box-2{
+    flex-grow: 2;
+}
+.item-container{
+    height: 80vh;
+    width: 100%;
+    border: 2px solid plum;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    height: 100px;
+    width: 100px;
+    border: 2px solid peachpuff;
+}
+#item-1{
+    align-self: flex-start;
+}
