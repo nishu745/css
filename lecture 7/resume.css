@@ -1,0 +1,13 @@
+div {
+  font-family: 'dancing script',sans-serif;
+}
+.kites{
+    background-color: bisque;
+    border-radius: 50px;
+    border: 4px solid rgb(225, 202, 225);
+}
+.goose>div{
+    align-items: center;
+    flex-direction: row-reverse;
+    align-self: center;
+}
