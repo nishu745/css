@@ -1,0 +1,24 @@
+/*reset styles  */
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: goldenrod;
+    font-family: "Playwrite Australia QLD",sans-serif;
+    background-color: palegoldenrod;
+}
+nav{
+    background-color: bisque;
+    justify-content: space-between;
+}
+nav ul{
+    list-style-type: none;
+}
+nav a{
+    text-decoration: none;
+}
+nav>h1{
+    font-size: 5rem;
+}
